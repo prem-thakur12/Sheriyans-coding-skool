@@ -1,0 +1,15 @@
+Intro
+Settin up environment for TS
+installing TS - run (npm i typescript) in terminal of vs code
+
+Typesript Setup:
+-> Setting up a S project
+-> Configuring tsconfig.json = run (tsc --init) a new file created
+-> Compiling TS
+
+// Basic Types
+-> Primitive types (number, string, boolean)
+-> Arrays
+-> Tuples
+-> Enums
+-> Any Unknown, void, Null, Undefined, Never
