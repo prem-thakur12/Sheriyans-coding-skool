@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 20px;
+}
+
+h1{
+  padding: 10px 70px;
+  margin: 20px;
+  background-color: gainsboro;
+  width: fit-content;
+  border-radius: 5px;
+  font-size: 100px;
+
+}
